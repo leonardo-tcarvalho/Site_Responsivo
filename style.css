@@ -1,3 +1,16 @@
 body {
+    background-color: #c5ebd6;
     margin: 0;
+}
+body > header {
+    background-image: linear-gradient(#c5ebd6, black);
+}
+body > header > h1 {
+    text-align: center;
+}
+body > header > p {
+    text-align: center;
+}
+a {
+    text-decoration: none;
 }
